@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @C-Amin
+- 👋 Hello, I’m @C-Amin
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning C++
 
